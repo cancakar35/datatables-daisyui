@@ -1,0 +1,26 @@
+{
+  "name": "datatables-daisyui",
+  "private": true,
+  "version": "1.0.0",
+  "author": "Can Çakar",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.17",
+    "@types/pdfmake": "^0.2.12",
+    "daisyui": "^5.5.5",
+    "tailwindcss": "^4.1.17",
+    "vite": "^7.2.4"
+  },
+  "dependencies": {
+    "datatables.net-buttons-dt": "^3.2.5",
+    "datatables.net-dt": "^2.3.5",
+    "datatables.net-plugins": "^2.3.2",
+    "jszip": "^3.10.1",
+    "pdfmake": "^0.2.20"
+  }
+}
